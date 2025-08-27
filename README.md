@@ -251,7 +251,7 @@ router.GET("/api/users/:id", userHandler)
 
 ### **Quantifiable Business Achievements**
 
-🏗️ **Bitdev Engineering**: Architected high-performance web systems serving Fortune 500 enterprise clients across multiple industry verticals
+🏗️ **Bitdev Engineering**: Architected high-performance web systems serving clients across multiple industry verticals
 
 📊 **VelocityLists Platform**: Engineered AI-driven data processing pipeline handling 100,000+ records daily with bulletproof 99.9% reliability SLA
 
