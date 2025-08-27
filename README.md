@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Gentry Rolofson
+# Gentry Rolofson
 ### Systems Engineer • Performance Specialist • Founder @ Bitdev
 
 [![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:A78BFA,100:3B82F6&height=200&section=header&text=&fontSize=0&animation=fadeIn)](https://bitdev.io)
@@ -43,30 +43,30 @@ I'm a **systems-minded backend engineer** with an obsession for **performance, c
 
 ### **🛠️ Technology Stack**
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 120px; vertical-align: middle;">
 <h4>🔥 Primary Languages</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="45" height="45"/><br/>
 <strong>Go • Rust</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 120px; vertical-align: middle;">
 <h4>⚡ Performance Tools</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/><br/>
 <strong>Python • TypeScript</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 120px; vertical-align: middle;">
 <h4>☁️ Infrastructure</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/><br/>
 <strong>AWS • Docker</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 120px; vertical-align: middle;">
 <h4>🗄️ Data Systems</h4>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/><br/>
 <strong>PostgreSQL • Linux</strong>
 </td>
 </tr>
@@ -255,38 +255,42 @@ Early Go ecosystem contribution - built before official installers existed. **10
 
 ### **📈 Business Metrics & Achievements**
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 140px; vertical-align: middle;">
 <h3>🚀 Performance</h3>
-<strong>190k+</strong><br/>
+<strong style="font-size: 24px;">190k+</strong><br/>
 <em>req/sec routing systems</em><br/><br/>
-<strong>Sub-ms</strong><br/>
+<strong style="font-size: 20px;">Sub-ms</strong><br/>
 <em>response times</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 140px; vertical-align: middle;">
 <h3>📊 Scale</h3>
-<strong>100k+</strong><br/>
+<strong style="font-size: 24px;">100k+</strong><br/>
 <em>daily operations</em><br/><br/>
-<strong>99.9%</strong><br/>
+<strong style="font-size: 20px;">99.9%</strong><br/>
 <em>uptime SLA</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 140px; vertical-align: middle;">
 <h3>🏢 Enterprise</h3>
-<strong>Fortune 500</strong><br/>
+<strong style="font-size: 24px;">Fortune 500</strong><br/>
 <em>client systems</em><br/><br/>
-<strong>12+ Years</strong><br/>
+<strong style="font-size: 20px;">12+ Years</strong><br/>
 <em>production experience</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="height: 140px; vertical-align: middle;">
 <h3>🤖 AI Systems</h3>
-<strong>Multi-Model</strong><br/>
+<strong style="font-size: 24px;">Multi-Model</strong><br/>
 <em>orchestration</em><br/><br/>
-<strong>Hybrid Cloud</strong><br/>
+<strong style="font-size: 20px;">Hybrid Cloud</strong><br/>
 <em>deployment</em>
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
@@ -329,7 +333,7 @@ Developing next-generation middleware architecture while preserving zero-allocat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xDarkicex&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=xDarkicex&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -339,21 +343,23 @@ Developing next-generation middleware architecture while preserving zero-allocat
 
 <div align="center">
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" style="height: 100px; vertical-align: middle;">
 <a href="https://bitdev.io">
 <img src="https://img.shields.io/badge/🌐_Professional_Website-6EE7B7?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Website"/>
 </a><br/>
 <em>Portfolio & Case Studies</em>
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" style="height: 100px; vertical-align: middle;">
 <a href="mailto:xdarkicex@gmail.com">
 <img src="https://img.shields.io/badge/📧_Business_Inquiries-A78BFA?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a><br/>
 <em>Performance Consulting</em>
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" style="height: 100px; vertical-align: middle;">
 <a href="https://bitdev.io">
 <img src="https://img.shields.io/badge/🏗️_System_Architecture-3B82F6?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Architecture"/>
 </a><br/>
@@ -361,6 +367,8 @@ Developing next-generation middleware architecture while preserving zero-allocat
 </td>
 </tr>
 </table>
+
+</div>
 
 ### **Available for Enterprise Performance Consulting**
 *Specializing in zero-allocation systems, high-performance backends, and AI infrastructure architecture*
