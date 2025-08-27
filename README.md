@@ -25,18 +25,10 @@
 
 **Senior Systems Engineer** specializing in **high-performance backend architecture** and **zero-allocation system design**. I architect and build custom infrastructure components when existing solutions can't meet performance requirements – from memory allocators and routing frameworks to AI orchestration platforms processing **100,000+ operations daily**.
 
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🏢 Founder & Principal Engineer @ Bitdev                                │
-│  🎯 Core Expertise: Zero-allocation Go, Memory Management, AI Systems    │  
-│  ⚡ Performance Focus: 190k+ req/sec production systems                   │
-│  🌍 Enterprise Experience: 12+ years architecting scalable systems       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+**🏢 Founder & Principal Engineer @ Bitdev**  
+**🎯 Core Expertise:** Zero-allocation Go, Memory Management, AI Systems  
+**⚡ Performance Focus:** 190k+ req/sec production systems  
+**🌍 Enterprise Experience:** 12+ years architecting scalable systems
 
 ---
 
@@ -47,7 +39,7 @@
 ### **Primary Languages**
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 </p>
@@ -179,11 +171,22 @@ router.GET("/api/users/:id", userHandler)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDarkicex&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=xDarkicex&theme=react&hide_border=true&background=20232a&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff)
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xDarkicex&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkicex&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=58a6ff&text_color=c9d1d9&exclude_repo=algorithms" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xDarkicex&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=58a6ff&text_color=c9d1d9&exclude_repo=algorithms)
+<img src="https://streak-stats.demolab.com/?user=xDarkicex&theme=react&hide_border=true&background=20232a&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff" alt="GitHub Streak" />
+
+</div>
 
 </div>
 
@@ -293,7 +296,11 @@ router.GET("/api/users/:id", userHandler)
 
 <div align="center">
 
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=xDarkicex&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xDarkicex&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+
+</div>
 
 </div>
 
