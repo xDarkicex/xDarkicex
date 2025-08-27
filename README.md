@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Zero-Allocation+Go+Systems+Engineer;190k%2B+req%2Fsec+Production+Systems;Custom+Memory+Allocators+%26+AI+Infrastructure;12%2B+Years+Enterprise+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Zero-Allocation+Go+Systems+Engineer;190k%2B+req%2Fsec+Production+Systems;Custom+Memory+Allocators+%26+AI+Infrastructure;12%2B+Years+Production+Experience)](https://git.io/typing-svg)
 
 </div>
 
