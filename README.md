@@ -197,7 +197,7 @@ router.GET("/api/users/:id", userHandler)
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ [**Logic - Advanced Logic & SAT Library**](https://github.com/xDarkicex/logic/tree/R2.2) ![Stars](https://img.shields.io/github/stars/xDarkicex/logic?style=flat-square&color=yellow)
+### ⚙️ [**Logic - Advanced Logic & SAT Library**](https://github.com/xDarkicex/logic/tree/R2.2)
 [![Go](https://img.shields.io/badge/Go-Logic_Library-blue?style=flat-square&logo=go&logoColor=white)](https://github.com/xDarkicex/logic/tree/R2.2)
 [![Advanced](https://img.shields.io/badge/Logic-SAT_Solver-purple?style=flat-square)]()
 
