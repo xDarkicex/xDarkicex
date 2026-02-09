@@ -245,7 +245,7 @@ router.GET("/api/users/:id", userHandler)
 
 ### **Quantifiable Business Achievements**
 
-🏗️ **Bitdev Engineering**: Architected high-performance web systems serving clients across multiple industry verticals
+🏗️ **Engineering**: Architected high-performance web systems serving clients across multiple industry verticals
 
 📊 **VelocityLists Platform**: Engineered AI-driven data processing pipeline handling 100,000+ records daily with bulletproof 99.9% reliability SLA
 
@@ -298,7 +298,7 @@ router.GET("/api/users/:id", userHandler)
 
 </div>
 
-🚀 **VelocityLists Expansion**: Engineering automated lead generation platform to process 500,000+ daily operations with advanced AI integration
+🚀 **VelocityLists Expansion**: Engineering automated lead generation platform with advanced AI integration
 
 🦀 **Strategic Rust Adoption**: Migrating safety-critical system components from Go to Rust for memory safety and performance guarantees
 
@@ -335,6 +335,6 @@ router.GET("/api/users/:id", userHandler)
 
 <div align="center">
 
-[![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00D9FF&height=200&section=footer&text=Available%20for%20Enterprise%20Consulting&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70)](https://bitdev.io)
+[![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00D9FF&height=200&section=footer&text=Available%20for%20Enterprise%20Consulting&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70)](https://rm-rf.sh)
 
 </div>
