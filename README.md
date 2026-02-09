@@ -19,17 +19,12 @@
 ### 🎯 **Professional Overview**
 
 ```
-🏢 Founder & Principal Engineer @ Bitdev
+🏢 Founder & Principal Engineer
 ⚡ Performance Focus: 190k+ req/sec production systems  
 🎯 Core Expertise: Zero-allocation Go, Memory Management, AI Systems
 🌍 Enterprise Experience: 12+ years architecting scalable systems
-📍 Location: Fresno, CA
+📍 Location: California
 ```
-
-[![Website](https://img.shields.io/badge/Website-bitdev.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bitdev.io)
-[![Email](https://img.shields.io/badge/Email-xdarkicex@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:xdarkicex@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Fresno,%20CA-green?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010)]()
-[![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-orange?style=for-the-badge&logo=clock&logoColor=white&labelColor=101010)]()
 
 </div>
 
