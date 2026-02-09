@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gentry Rolofson
+# xDarkicex.CODES
 ### Systems Engineer • Performance Specialist • Founder @ Bitdev
 
 [![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:A78BFA,100:3B82F6&height=200&section=header&text=&fontSize=0&animation=fadeIn)](https://bitdev.io)
