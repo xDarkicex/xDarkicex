@@ -1,6 +1,5 @@
 <div align="center">
 
-# xDarkicex.CODES
 ### Systems Engineer • Performance Specialist • Founder @ Bitdev
 
 [![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:A78BFA,100:3B82F6&height=200&section=header&text=&fontSize=0&animation=fadeIn)](https://bitdev.io)
@@ -327,17 +326,6 @@ router.GET("/api/users/:id", userHandler)
 **🔍 Technology Strategy**: Making critical build-vs-buy decisions and technology stack selections for enterprise-scale systems
 
 **🛡️ Production Operations**: Architecting systems for operational excellence, comprehensive monitoring, and 99.9%+ reliability at scale
-
----
-
-## 📫 **Professional Contact & Availability**
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Professional_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://bitdev.io)
-[![Email](https://img.shields.io/badge/📧_Business_Inquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:xdarkicex@gmail.com)
-[![Consulting](https://img.shields.io/badge/💼_Performance_Consulting-28a745?style=for-the-badge&logo=handshake&logoColor=white&labelColor=101010)](https://bitdev.io)
-[![Architecture](https://img.shields.io/badge/🏗️_System_Architecture-orange?style=for-the-badge&logo=building&logoColor=white&labelColor=101010)](https://bitdev.io)
 
 ### **🚀 Enterprise Performance Consulting & Custom System Architecture Available**
 *Specializing in zero-allocation systems, high-performance backends, and AI infrastructure*
